@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sundas
 
-<!--
-**sundasamin/sundasamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with 8+ years of experience building production web systems, including electronic health record (EHR) software with e-prescribing workflows and clinical decision support.
 
-Here are some ideas to get you started:
+I'm interested in **explainable AI (XAI)** and **human-centred AI (HCAI)**, especially how AI-based clinical tools can be made easier for healthcare professionals to understand, evaluate and trust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Interests
+- Explainable and interpretable machine learning
+- Human-centred AI and trust in AI-assisted decisions
+- AI for healthcare
+
+### 🔬 Currently learning
+- Explainability methods: SHAP, LIME, Captum
+- Deep learning with PyTorch
+
+### 📄 Publication
+**Frame Interpolation Using Phase Information and Guided Image Filtering**
+*ICIAP 2019, Springer LNCS* · [Read the paper](https://doi.org/10.1007/978-3-030-30645-8_23)
+
+### 🛠️ Tools
+**ML / data:** Python, NumPy, pandas, scikit-learn, Matplotlib
+**Software:** TypeScript, Node.js, NestJS, Angular, React, MySQL, PostgreSQL, MongoDB
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/sundasamindev/) · sundasmailbox@gmail.com
